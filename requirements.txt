@@ -1,0 +1,8 @@
+torch
+torchvision
+numpy
+pillow
+onnx
+onnxruntime
+onnxscript
+torch-pruning
