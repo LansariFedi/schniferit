@@ -1,5 +1,6 @@
 # schniferit
 This app is fully AI coded.
+
 Squeeze any image classifier: smaller, faster, within an accuracy budget you set.
 
 ## Install
